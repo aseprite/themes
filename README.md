@@ -39,3 +39,9 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 <img src="http://pre09.deviantart.net/2683/th/pre/f/2017/105/7/7/aseprite__flat_default_theme_for_beta_8__by_lodindogar-db5zm26.png" width="400px" />
 
 ----
+
+[2dchaos's Minimal Dark](https://2dchaos.itch.io/minimal-dark-aseprite-theme)
+
+<img src="https://img.itch.zone/aW1hZ2UvMTM2MzMzLzYyNTQ1My5wbmc=/original/vi3br7.png" width="400px" />
+
+----
