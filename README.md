@@ -38,3 +38,6 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 <img src="https://img.itch.zone/aW1hZ2UvMTM2MzMzLzYyNTQ1My5wbmc=/original/vi3br7.png" width="400px" /></a>
 
 ----
+
+<a href="https://github.com/Lyutria/aseprite-sunken-theme">Lyutria's Sunken Dark<br>
+<img src="https://github.com/Lyutria/aseprite-sunken-theme/raw/master/screenshot.png" width="400px" /></a>
