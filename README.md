@@ -41,3 +41,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/Lyutria/aseprite-sunken-theme">Lyutria's Sunken Dark<br>
 <img src="https://github.com/Lyutria/aseprite-sunken-theme/raw/master/screenshot.png" width="400px" /></a>
+
+----
+
+<a href="https://github.com/el-falso/monaki-theme">eL-Falso's Monaki<br>
+<img src="https://github.com/el-falso/monaki-theme/raw/gh-pages/screenshots/Screen01.png" width="400px" /></a>
