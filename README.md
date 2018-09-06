@@ -4,11 +4,6 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
-<a href="https://github.com/michidk/Aseprite-DarkFlat-Theme">michidk's DarkFlat<br>
-<img src="https://github.com/michidk/Aseprite-DarkFlat-Theme/raw/master/Screenshot01.png" width="400px" /></a>
-
-----
-
 <a href="https://github.com/KashouC/darktheme">KashouC's Dark Grey<br>
 <img src="https://github.com/KashouC/darktheme/raw/master/Screenshot.png" width="400px" /></a>
 
