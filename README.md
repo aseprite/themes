@@ -19,18 +19,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
-<a href="http://lodindogar.deviantart.com/art/Aseprite-Lodins-flat-dark-twitch-skin-674222970">Lodins' flat dark twitch<br>
-<img src="http://pre07.deviantart.net/bca1/th/pre/f/2017/104/0/6/aseprite__lodins_flat_dark_twitch_skin_by_lodindogar-db5exru.png" width="400px" /></a>
-
-----
-
-<a href="http://lodindogar.deviantart.com/art/Aseprite-Flat-Dark-Theme-for-Beta-8-674998984">Lodins' flat dark<br>
-<img src="http://pre14.deviantart.net/d5cf/th/pre/f/2017/105/7/9/aseprite__flat_dark_theme_for_beta_8__by_lodindogar-db5vkjs.png" width="400px" /></a>
-
-----
-
-<a href="http://lodindogar.deviantart.com/art/Aseprite-Flat-Default-Theme-for-Beta-8-675187566">Lodins' flat<br>
-<img src="http://pre09.deviantart.net/2683/th/pre/f/2017/105/7/7/aseprite__flat_default_theme_for_beta_8__by_lodindogar-db5zm26.png" width="400px" /></a>
+<a href="https://lodindogar.itch.io/lodins-aseprite-flat-themes-pack">Lodins Aseprite Flat Theme Pack<br>
+<img src="https://user-images.githubusercontent.com/39654/45174438-48af3500-b1e1-11e8-95ea-e67276a55773.png" width="400px" /></a>
 
 ----
 
