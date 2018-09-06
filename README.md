@@ -36,3 +36,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/el-falso/monaki-theme">eL-Falso's Monaki<br>
 <img src="https://github.com/el-falso/monaki-theme/raw/gh-pages/screenshots/Screen01.png" width="400px" /></a>
+
+----
+
+<a href="https://github.com/jmswrnr/aseprite-themes">JMSWRNR's Aseprite Themes<br>
+<img src="https://user-images.githubusercontent.com/39654/45174582-a3e12780-b1e1-11e8-878b-5cb73931f339.png" width="400px" /></a>
