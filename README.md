@@ -20,7 +20,7 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 ----
 
 <a href="https://2dchaos.itch.io/minimal-dark-aseprite-theme">2dchaos's Minimal Dark<br>
-<img src="https://user-images.githubusercontent.com/39654/45174395-23bac200-b1e1-11e8-9d9e-0ea5f192880b.png" width="400px" /></a>
+<img src="https://user-images.githubusercontent.com/39654/48084640-0b622600-e1d7-11e8-845c-17e271fb8d71.png" width="400px" /></a>
 
 ----
 
