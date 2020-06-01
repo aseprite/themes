@@ -36,3 +36,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/jmswrnr/aseprite-themes">JMSWRNR's Aseprite Themes<br>
 <img src="https://user-images.githubusercontent.com/39654/45174582-a3e12780-b1e1-11e8-878b-5cb73931f339.png" width="400px" /></a>
+
+----
+
+<a href="https://mortmort.itch.io/aseprite-darkmode">MortMort's Dark Mort HD Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvNTQ3MDM2LzI4NTc3OTMucG5n/original/A2oKez.png" width="400px" /><a>
