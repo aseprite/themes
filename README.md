@@ -36,3 +36,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/jmswrnr/aseprite-themes">JMSWRNR's Aseprite Themes<br>
 <img src="https://user-images.githubusercontent.com/39654/45174582-a3e12780-b1e1-11e8-878b-5cb73931f339.png" width="400px" /></a>
+
+----
+
+<a href="https://tungkradle.github.io/dase-theme/">tungkradle's dase theme<br>
+<img src="https://tungkradle.github.io/dase-theme/assets/img/dase-1.jpg" width="400px" /></a>
