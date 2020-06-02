@@ -41,3 +41,13 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://tungkradle.github.io/dase-theme/">tungkradle's dase theme<br>
 <img src="https://tungkradle.github.io/dase-theme/assets/img/dase-1.jpg" width="400px" /></a>
+
+----
+
+<a href="https://mortmort.itch.io/aseprite-darkmode">MortMort's Dark Mort HD Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvNTQ3MDM2LzI4NTc3OTMucG5n/original/A2oKez.png" width="400px" /><a>
+
+----
+
+<a href="https://wildleoknight.itch.io/aseprite-wild-night-theme">WildLeoKnight's Aseprite Wild Night Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvNTUxMDg1LzMzNDM3NjQucG5n/original/byaDG4.png" width="400px" /><a>
