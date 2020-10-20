@@ -51,3 +51,9 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://wildleoknight.itch.io/aseprite-wild-night-theme">WildLeoKnight's Aseprite Wild Night Theme<br>
 <img src="https://img.itch.zone/aW1hZ2UvNTUxMDg1LzMzNDM3NjQucG5n/original/byaDG4.png" width="400px" /><a>
+
+----
+
+<a href="https://oleale.itch.io/ole-choco-theme">Aseprite Choco Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvNzg2Mzg3LzQ0MzAyNTYucG5n/original/ke5qF6.png" width="400px" /><a>
+
