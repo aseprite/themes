@@ -57,3 +57,7 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 <a href="https://oleale.itch.io/ole-choco-theme">Aseprite Choco Theme<br>
 <img src="https://img.itch.zone/aW1hZ2UvNzg2Mzg3LzQ0MzAyNTYucG5n/original/ke5qF6.png" width="400px" /><a>
 
+----
+
+<a href="https://github.com/dracula/aseprite">Aseprite Dracula Theme<br>
+<img src="https://github.com/dracula/aseprite/blob/master/screenshot.png" width="400px" /><a>
