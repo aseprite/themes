@@ -50,7 +50,7 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 ----
 
 <a href="https://wildleoknight.itch.io/aseprite-wild-night-theme">WildLeoKnight's Aseprite Wild Night Theme<br>
-<img src="https://img.itch.zone/aW1hZ2UvNTUxMDg1LzMzNDM3NjQucG5n/original/byaDG4.png" width="400px" /><a>
+<img src="https://img.itch.zone/aW1hZ2UvNTUxMDg1LzUyNjkzODUucG5n/original/O%2FI%2BcZ.png" width="400px" /><a>
 
 ----
 
