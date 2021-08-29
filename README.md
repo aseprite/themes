@@ -61,3 +61,9 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/dracula/aseprite">Aseprite Dracula Theme<br>
 <img src="https://github.com/dracula/aseprite/blob/master/screenshot.png" width="400px" /><a>
+
+----
+  
+<a href="https://github.com/dracula/aseprite">Computer Aseprite Theme<br>
+<img src="https://user-images.githubusercontent.com/76855526/131205648-47380826-cc08-4f97-8b00-50cd84437cd1.png" width="400px" /><a>
+
