@@ -61,3 +61,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/dracula/aseprite">Aseprite Dracula Theme<br>
 <img src="https://github.com/dracula/aseprite/blob/master/screenshot.png" width="400px" /><a>
+
+----
+
+<a href="https://theretrodragon.itch.io/aseprite-darkblue-theme">RetroDragon's Dark Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvMTY0Nzg2NS85Njk1MTAzLnBuZw==/original/TbgdA9.png" width="400px" /><a>
