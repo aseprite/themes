@@ -71,3 +71,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://toronja.itch.io/pico8-aseprite-theme">Toronja's Pico8 Aseprite Theme<br>
 <img src="https://img.itch.zone/aW1hZ2UvMjkwNDEyLzE0MzI3NTgucG5n/original/V%2BOr9s.png" width="400px" /><a>
+
+----
+
+<a href="https://theretrodragon.itch.io/aseprite-darkblue-theme">RetroDragon's Dark Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvMTY0Nzg2NS85Njk1MTAzLnBuZw==/original/TbgdA9.png" width="400px" /><a>
