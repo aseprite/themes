@@ -66,3 +66,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/hirin-byte/computer-aseprite-theme">Computer Aseprite Theme<br>
 <img src="https://user-images.githubusercontent.com/76855526/131205648-47380826-cc08-4f97-8b00-50cd84437cd1.png" width="400px" /><a>
+
+----
+
+<a href="https://toronja.itch.io/pico8-aseprite-theme">Toronja's Pico8 Aseprite Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvMjkwNDEyLzE0MzI3NTgucG5n/original/V%2BOr9s.png" width="400px" /><a>
