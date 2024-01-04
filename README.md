@@ -2,6 +2,8 @@
 
 This is an incomplete list of themes created by Aseprite users (pull requests are welcome):
 
+P.S themes can be installed in preferences -> extensions
+
 ----
 
 <a href="https://github.com/KashouC/darktheme">KashouC's Dark Grey<br>
@@ -9,8 +11,13 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
-<a href="https://tungkradle.github.io/aseprite-than/">tungkradle's than<br>
-<img src="https://tungkradle.github.io/aseprite-than/img/screenshots/screenshot_02.png" width="400px" /></a>
+<a href="https://github.com/lettdev/aseprite-than/">tungkradle's than<br>
+<img src="https://cloud.githubusercontent.com/assets/24779254/25117556/df99ea3e-243c-11e7-9c3e-1c5aecee57c3.png" width="400px" /></a>
+
+----
+
+<a href="https://github.com/lettdev/dase-theme">tungkradle's dase theme<br>
+<img src="./screenshots/dase.png" width="400px" /></a>
 
 ----
 
@@ -39,11 +46,6 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
-<a href="https://tungkradle.github.io/dase-theme/">tungkradle's dase theme<br>
-<img src="https://tungkradle.github.io/dase-theme/assets/img/dase-1.jpg" width="400px" /></a>
-
-----
-
 <a href="https://mortmort.itch.io/aseprite-darkmode">MortMort's Dark Mort HD Theme<br>
 <img src="https://img.itch.zone/aW1hZ2UvNTQ3MDM2LzI4NTc3OTMucG5n/original/A2oKez.png" width="400px" /><a>
 
@@ -60,7 +62,7 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 ----
 
 <a href="https://github.com/dracula/aseprite">Aseprite Dracula Theme<br>
-<img src="https://github.com/dracula/aseprite/blob/master/screenshot.png" width="400px" /><a>
+<img src="https://github.com/dracula/aseprite/blob/master/screenshot.png?raw=true" width="400px" /><a>
 
 ----
 
