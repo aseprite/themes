@@ -76,3 +76,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://theretrodragon.itch.io/aseprite-darkblue-theme">RetroDragon's Dark Theme<br>
 <img src="https://img.itch.zone/aW1hZ2UvMTY0Nzg2NS85Njk1MTAzLnBuZw==/original/TbgdA9.png" width="400px" /><a>
+
+----
+
+<a href="https://qirlfriend.itch.io/1-bit-aseprite-skin">1-bit Theme by qirlfriend<br>
+<img src="https://img.itch.zone/aW1hZ2UvMjYxNDUxNS8xNTY1MTA5My5wbmc=/original/U2cuHm.png" width="400px" /><a>
