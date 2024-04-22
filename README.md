@@ -4,16 +4,6 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
-<a href="https://github.com/KashouC/darktheme">KashouC's Dark Grey<br>
-<img src="https://github.com/KashouC/darktheme/raw/master/Screenshot.png" width="400px" /></a>
-
-----
-
-<a href="https://tungkradle.github.io/aseprite-than/">tungkradle's than<br>
-<img src="https://tungkradle.github.io/aseprite-than/img/screenshots/screenshot_02.png" width="400px" /></a>
-
-----
-
 <a href="https://lodindogar.itch.io/lodins-aseprite-flat-themes-pack">Lodins Aseprite Flat Theme Pack<br>
 <img src="https://user-images.githubusercontent.com/39654/45174438-48af3500-b1e1-11e8-95ea-e67276a55773.png" width="400px" /></a>
 
