@@ -4,6 +4,11 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
+<a href="https://mortmort.itch.io/aseprite-darkmode">Aseprite Dark Mort HD Theme<br>
+<img src="https://img.itch.zone/aW1hZ2UvNTQ3MDM2LzI4NTc3OTMucG5n/original/A2oKez.png" width="400px" /><a>
+
+----
+
 <a href="https://lodindogar.itch.io/lodins-aseprite-flat-themes-pack">Lodins Aseprite Flat Theme Pack<br>
 <img src="https://user-images.githubusercontent.com/39654/45174438-48af3500-b1e1-11e8-95ea-e67276a55773.png" width="400px" /></a>
 
@@ -31,11 +36,6 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://tungkradle.github.io/dase-theme/">tungkradle's dase theme<br>
 <img src="https://tungkradle.github.io/dase-theme/assets/img/dase-1.jpg" width="400px" /></a>
-
-----
-
-<a href="https://mortmort.itch.io/aseprite-darkmode">MortMort's Dark Mort HD Theme<br>
-<img src="https://img.itch.zone/aW1hZ2UvNTQ3MDM2LzI4NTc3OTMucG5n/original/A2oKez.png" width="400px" /><a>
 
 ----
 
