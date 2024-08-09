@@ -34,8 +34,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
-<a href="https://tungkradle.github.io/dase-theme/">tungkradle's dase theme<br>
-<img src="https://tungkradle.github.io/dase-theme/assets/img/dase-1.jpg" width="400px" /></a>
+<a href="https://lettdev.github.io/dase-theme/">lettdev's dase theme<br>
+<img src="https://lettdev.github.io/dase-theme/assets/img/dase-1.jpg" width="400px" /></a>
 
 ----
 
