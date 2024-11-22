@@ -76,3 +76,8 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/catppuccin/aseprite">Catppuccin for Aseprite <br>
 <img src="https://raw.githubusercontent.com/catppuccin/aseprite/ad08aa0cb6addb68461b275188d4e31cad518855/assets/preview.webp" width="400px" /><a>
+
+----
+
+<a href="https://oworowo.itch.io/renewed-classic">Renewed Classic theme by Oworowo<br>
+<img src="https://img.itch.zone/aW1hZ2UvMzEwNTYyNy8xODU3NDM1Mi5wbmc=/original/82unEH.png" width="400px" /><a>
