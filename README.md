@@ -70,7 +70,7 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 ----
 
 <a href="https://qirlfriend.itch.io/1-bit-aseprite-skin">1-bit Theme by qirlfriend<br>
-<img src="https://img.itch.zone/aW1hZ2UvMjYxNDUxNS8xNTY1MTA5My5wbmc=/original/U2cuHm.png" width="400px" /><a>
+<img src="https://img.itch.zone/aW1hZ2UvMjYxNDUxNS8xODcwMjgwMy5wbmc=/original/fShrxY.png" width="400px" /><a>
 
 ----
 
