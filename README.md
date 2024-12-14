@@ -76,3 +76,10 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 <a href="https://github.com/catppuccin/aseprite">Catppuccin for Aseprite <br>
 <img src="https://raw.githubusercontent.com/catppuccin/aseprite/ad08aa0cb6addb68461b275188d4e31cad518855/assets/preview.webp" width="400px" /><a>
+
+----
+
+<a href="https://2058.itch.io/green-boy">GREEN BOY by Green Guy <br>
+<img src="https://github.com/user-attachments/assets/d0ebe654-34ec-431e-b36e-623ac080979b" width="400px" /><a>
+
+----
