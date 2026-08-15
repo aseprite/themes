@@ -74,5 +74,10 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
+<a href="https://codeberg.org/AppleHair/aseprite-catppuccin">Catppuccin for Aseprite (AppleHair 2026) <br>
+<img src="https://codeberg.org/AppleHair/aseprite-catppuccin/raw/branch/main/assets/preview.png" width="400px" /><a>
+
+----
+
 <a href="https://github.com/catppuccin/aseprite">Catppuccin for Aseprite <br>
 <img src="https://raw.githubusercontent.com/catppuccin/aseprite/ad08aa0cb6addb68461b275188d4e31cad518855/assets/preview.webp" width="400px" /><a>
